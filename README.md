@@ -20,25 +20,17 @@ SmartDine is a tailored Java Swing desktop solution designed to automate restaur
 
 ## Screenshots
 
-> Place your screenshot images inside the `ss/` folder with the filenames below.
-
 **Login Screen**  
 ![Login Screen](ss/LoginScreen.png)
 
 **Cashier POS & Ordering Screen**  
-![Cashier POS Screen](ss/CashierPOS.png)
-
-**Order Summary & Bill Payment**  
-![Payment Dialog](ss/PaymentModal.png)
+![Cashier POS Screen](ss/POSscreen.png)
 
 **Admin Dashboard & Analytics**  
 ![Admin Dashboard](ss/AdminDashboard.png)
 
 **Menu & Product Management**  
 ![Menu Management](ss/MenuManagement.png)
-
-**Sales & Revenue Reports**  
-![Sales Reports](ss/SalesReport.png)
 
 ## Getting Started
 
